@@ -125,7 +125,7 @@
   align-self: baseline;
   display: flex;
   justify-content: center;
-  align-items: center;
+ /* align-items: center;*/
   font-size: x-large;
   overflow-x: auto;
 }
