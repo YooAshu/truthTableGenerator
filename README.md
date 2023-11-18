@@ -48,17 +48,18 @@ Contributions are welcome! If you find a bug or have an idea for improvement, pl
 - **easy to use:** You dont have to type AND, OR,NOT,XOR you can simply use the followwing symbols
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](instructionss.png)
 
 
 ## Examples
 
 - **Basic Expression:** `A . B . !C  ` 
 - **Complex Expression:** `(P . Q) + (R ^ S)`
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)## Screenshots
+![App Screenshot](ssPC.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](ssMOBILE.jpg)
