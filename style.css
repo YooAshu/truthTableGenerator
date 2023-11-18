@@ -119,15 +119,16 @@
 }
 
 #table-holder {
-  width: 50dvw;
+  width: 100%;
   height: max-content;
   grid-area: 3/2/6/3;
   align-self: baseline;
   display: flex;
+  padding: 25px 0;
   justify-content: center;
   align-items: center;
   font-size: x-large;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 button {
@@ -251,7 +252,7 @@ svg {
   height: 100%;
 }
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:900px) {
   #sec-1 {
     grid-template-columns: unset;
     grid-template-rows: 1fr 2fr 2fr 1fr;
@@ -309,12 +310,12 @@ svg {
   }
 
   #table-holder {
-        grid-row-start: 5;
-        grid-column-start: 1;
-        grid-column-end: 2;
-        width: 90dvw;
-        margin: 5vw;
-    }
-  
+    grid-row-start: 5;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    width: 90dvw;
+    margin: 5vw;
+  }
+
 
 }
