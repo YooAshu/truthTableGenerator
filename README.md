@@ -47,10 +47,8 @@ Contributions are welcome! If you find a bug or have an idea for improvement, pl
 
 - **easy to use:** You dont have to type AND, OR,NOT,XOR you can simply use the followwing symbols
 
+<img src="https://github.com/YooAshu/truthTableGenerator/assets/95643200/08cd2f20-4434-484d-a457-b21850fbfcc4" alt="instructions on symbols to use" width="200"/>
 
-
-
-![App Screenshot](instructionss.png)
 
 
 ## Examples
@@ -58,8 +56,9 @@ Contributions are welcome! If you find a bug or have an idea for improvement, pl
 - **Basic Expression:** `A . B . !C  ` 
 - **Complex Expression:** `(P . Q) + (R ^ S)`
 
-## Screenshots
+## Screenshots![ssPC](https://github.com/YooAshu/truthTableGenerator/assets/95643200/ce36d524-3aec-4cbe-a10f-869917d001de)
 
-![App Screenshot](ssPC.png)
 
-![App Screenshot](ssMOBILE.jpg)
+
+<img src="https://github.com/YooAshu/truthTableGenerator/assets/95643200/c5fa12d4-6955-4302-b090-d67dcff45974" alt="SCREENSHOT" width="400"/>
+
