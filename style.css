@@ -124,8 +124,6 @@
   grid-area: 3/2/6/3;
   align-self: baseline;
   display: flex;
-
-
   align-items: center;
   font-size: x-large;
   overflow-x: auto;
